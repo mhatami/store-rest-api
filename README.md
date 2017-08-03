@@ -1,6 +1,8 @@
 # store-rest-api
+
 Python Flask Example Project
 
+This is built with Flask, Flask-RESTful, FLASK_JWT and Flask-SQLAlchemy
 to execute this project:
 Open the terminal (cmd in windows):
 change to this project folder
